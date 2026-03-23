@@ -69,8 +69,8 @@ Improve UI with animations
 Add charts and analytics
 
 👨‍💻 Author
-JAVVADI SWATHI
+TIRUMALARAJU LAKSHMI PRANATHI
 
 📜 License
 This project is for educational purposes.
-"# 323103210088" 
+"# 323103210217" 
